@@ -11,7 +11,7 @@ The main inspiration for TSO is based on the cooperative foraging behavior of tu
 
 # Architecture
 
-
+![tuna swarm](https://github.com/khajaraouf/TunaSwarmOptimization/assets/70451209/231b1ebe-3730-4eb9-8127-6f461a4a129b)
 
 # Reference Papers
 
